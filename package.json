@@ -1,0 +1,17 @@
+{
+  "name": "seogram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "finalhandler": "^1.1.2",
+    "package.json": "^2.0.1",
+    "vue-button-animation": "^1.8.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
